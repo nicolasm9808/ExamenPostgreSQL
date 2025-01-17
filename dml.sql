@@ -49,7 +49,7 @@ insert into ventas (fecha,idvehiculo,idempleado,comision,total) values
 
 insert into ventas_a_clientes (idcliente,idventa) values 
 (789,1),
-(1234,2)
+(1234,2),
 (1234,3);
 
 insert into proveedores (documento,nombre) values 
